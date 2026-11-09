@@ -1,0 +1,22 @@
+{
+  "wheel_id": 842,
+  "structure": "umbrella",
+  "slug": "poolbuildergoldcoast-118",
+  "project": "concrete-pool-builder-gold-coast-how-to-choose-8937c2e7b3957c86",
+  "parent_t1_ref": "poolbuildergoldcoast-158",
+  "node_role": "feeder",
+  "money_target": "poolbuildergoldcoast.net.au",
+  "primary_kw": "concrete pool builder gold coast how to choose",
+  "intended_url": "https://aumedia.neocities.org/concrete-pool-builder-gold-coast-how-to-choose-8937c2e7b3957c86/",
+  "tier": "T2",
+  "writeback_nonce": "228c74ebc65880eb",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/poolbuildergoldcoast-158/",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
